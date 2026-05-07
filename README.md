@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/272637be-08d0-46a6-bd43-646e20e86244"
+    src="https://github.com/user-attachments/assets/e6a40643-4755-4608-b2a5-2cdda9cfe4ab"
     alt="Banner" 
     width="100%"
     style="max-width: 1024px; height: auto;"
